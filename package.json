@@ -1,0 +1,19 @@
+{
+  "name": "initial",
+  "version": "1.0.0",
+  "description": "lab03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it21055294/AF_Lab_03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it21055294/AF_Lab_03/issues"
+  },
+  "homepage": "https://github.com/it21055294/AF_Lab_03#readme"
+}
